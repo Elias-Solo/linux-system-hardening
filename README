@@ -1,0 +1,17 @@
+# Linux System Hardening Guide
+
+## Overview
+
+This project provides a comprehensive guide and automation script to implement security best practices on Linux systems. It focuses on automating firewall configurations, managing user permissions, and ensuring regular system updates to enhance overall system security.
+
+## Features
+
+- **Automated Firewall Configuration**: Sets up and manages firewall rules to control incoming and outgoing traffic, enhancing network security.
+- **User and Permission Management**: Automates the process of reviewing user accounts, enforcing strong password policies, and restricting root access to bolster system integrity.
+- **Regular System Updates**: Ensures the system is up-to-date with the latest security patches and updates, reducing vulnerabilities.
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/linux-system-hardening.git
